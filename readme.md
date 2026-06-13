@@ -28,3 +28,6 @@
 ```bash
 ./generate_and_reload_certs.sh
 ```
+
+### Результат работы скриптов
+![Результат работы](result.png)
